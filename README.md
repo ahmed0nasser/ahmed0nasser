@@ -1,5 +1,6 @@
 # 👋 Hi, I’m Ahmed Nasser
-- 💡 I'm studying communication and electronics engineering at university
+- 🛜 I'm studying communication and electronics engineering at university
+- 🖥️ I'm self-learning [OSSU CS curriculum](https://github.com/ossu/computer-science) core courses
 - 👀 I’m interested in software engineering and computing world in general
 - 🌱 I’m currently expanding my knowledge in **Full-Stack Development**
 - 💞️ I’m looking to collaborate on impactful open source projects
